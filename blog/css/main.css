@@ -956,7 +956,7 @@ pre .javascript .function {
 }
 @media (min-width: 1600px) {
   .main-inner {
-    width: 73%;
+    width: 75%;
   }
 }
 @media (max-width: 767px) {
@@ -978,7 +978,7 @@ pre .javascript .function {
 }
 @media (min-width: 1600px) {
   .header-inner {
-    width: 73%;
+    width: 75%;
   }
 }
 .site-brand-container {
@@ -1195,7 +1195,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffc208;
+  background: #a3ace9;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1390,7 +1390,7 @@ pre .javascript .function {
 }
 @media (min-width: 1600px) {
   .footer-inner {
-    width: 73%;
+    width: 75%;
   }
 }
 .languages {
@@ -1973,6 +1973,13 @@ body {
 #qr p {
   text-align: center;
 }
+.post-copyright {
+  background: var(--card-bg-color);
+  border-left: 3px solid #ff2a2a;
+  list-style: none;
+  margin: 2em 0 0;
+  padding: 0.5em 1em;
+}
 .category-all-page .category-all-title {
   text-align: center;
 }
@@ -2271,7 +2278,7 @@ mjx-container + br {
 }
 @media (min-width: 1600px) {
   .header {
-    width: 73%;
+    width: 75%;
   }
 }
 @media (max-width: 991px) {
