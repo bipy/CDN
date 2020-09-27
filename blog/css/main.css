@@ -1195,7 +1195,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #63c161;
+  background: #70c457;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1508,7 +1508,7 @@ pre .javascript .function {
   }
 }
 body {
-  background-image: url("https://cdn.jsdelivr.net/gh/bipy/CDN@master/img/background.jpg");
+  background-image: url("https://cdn.jsdelivr.net/gh/bipy/CDN@master/img/background.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
