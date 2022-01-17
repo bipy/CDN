@@ -1,4 +1,4 @@
-cd ~/Pages/bipy.github.io
+cd ~/Pages/CDN
 
 git add .
 git commit -m "update"
